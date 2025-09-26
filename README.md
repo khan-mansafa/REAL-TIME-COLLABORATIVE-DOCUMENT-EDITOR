@@ -31,12 +31,17 @@ Responsive UI: Designed for desktops, tablets, and mobile devices using React.js
 Robust Socket Communication: Socket.IO ensures efficient transmission of changes and prevents conflicts during simultaneous edits.
 
 Technologies Used
-Layer	Technology & Purpose
+
 Frontend	React.js – Builds dynamic, interactive, and responsive UI components.
+
 Text Editor	Quill.js – Provides a rich WYSIWYG editor with formatting options.
+
 Backend	Node.js & Express – Handles HTTP requests, API endpoints, and server logic.
+
 Real-Time	Socket.IO – Manages WebSocket connections for instant collaboration.
+
 Database	PostgreSQL – Stores document data persistently.
+
 Environment	dotenv – Manages sensitive variables like database credentials.
 
 OUTPUT:
